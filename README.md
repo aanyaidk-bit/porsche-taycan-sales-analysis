@@ -2,8 +2,6 @@
 Data analytics portfolio project — Porsche Taycan EV sales trend analysis (2021–2024) using Python, SQL, and Excel
 # Porsche Taycan Sales Trend Analysis (2021–2024)
 
-# Porsche Taycan EV Sales Trend Analysis (2021–2024)
-
 ## Project Question
 How has the introduction of the Taycan affected Porsche's market 
 position in the luxury EV segment?
